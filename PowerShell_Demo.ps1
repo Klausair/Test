@@ -1,3 +1,2 @@
 Get-ADUser 
 
-Get-Service
